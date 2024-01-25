@@ -1,6 +1,5 @@
 from Tkinter import *
-from tkinter import ttk
-from customtkinter import * 
+from Tkinter import ttk
 import sqlite3
 
 
@@ -24,8 +23,9 @@ class Product:
         self.price = Entry(frame)
         self.price.grid(row=2,column=1)
         
+        boton = ttk
         #Button Add Product
-        ttk.Button(frame,text='Save Product').grid(row=3,columnspan=2,sticky=W + E)
+        boton.Button(frame,text='Save Product').grid(row=3,columnspan=2,sticky=W + E)
         
         
              
