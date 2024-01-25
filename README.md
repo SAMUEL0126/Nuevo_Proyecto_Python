@@ -7,3 +7,6 @@
 <h3>VISUAL STUDIO CODE.</h3>
 <img src="/images/CapturaVisual.PNG" alt="...">
 <hr></hr>
+<h3>DATABASE.</h3>
+<img src="/images/CapturaBD.PNG" alt="...">
+<hr></hr>
