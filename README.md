@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-<h3>📝</h3>
+<h3 align="center">📝</h3>
 <hr>
 <div align="center" >
 
