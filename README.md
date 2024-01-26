@@ -24,7 +24,6 @@
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
 </div>
 
-<hr></hr>
 
 </a>
 
