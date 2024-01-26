@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# :blue_heart: RASPBERRY :blue_heart:
+# :red_heart: RASPBERRY :red_heart:
 </div>
 <br>
 <br>
