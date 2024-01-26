@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# :blue_heart: APLICATIVO PARA RASPBERRY :blue_heart:
+# :blue_heart: Aplicativo para RASPBERRY :blue_heart:
 </div>
 <br>
 <br>
