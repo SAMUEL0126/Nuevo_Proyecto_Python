@@ -23,4 +23,4 @@
 ## 📝 Table of Contents
 <hr></hr>
 
-<img width=200px height=200px src="/images/Logo Printex [Convertido].png" alt="Projectlogo"></a>
+<img width=600px height=200px src="/images/Logo Printex [Convertido].png" alt="Projectlogo"></a>
