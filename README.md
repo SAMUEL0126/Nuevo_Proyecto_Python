@@ -13,7 +13,7 @@
 
 </div>
 <h3>📝</h3>
----
+<hr>
 <div align="center" >
 
 
