@@ -3,7 +3,7 @@
  <img width=500px height=100px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Python , Tkinter y Sql </h3>
 
 <div align="center">
 
@@ -16,11 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 <hr></hr>
 
-<img width=600px height=200px src="/images/Logo Printex [Convertido].png" alt="Projectlogo"></a>
+<img width=600px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Projectlogo"></a>
