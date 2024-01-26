@@ -19,4 +19,4 @@
 ## 📝 Table of Contents
 <hr></hr>
 
-<img width=600px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Projectlogo"></a>
+</a>
