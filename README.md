@@ -19,6 +19,7 @@
 
 <h3>VSD</h3>
 <img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
+<hr>
 <h3>DB</h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
 </div>
