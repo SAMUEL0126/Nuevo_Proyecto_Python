@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=100px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
+ <img width=400px height=100px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Python , Tkinter y Sql </h3>
