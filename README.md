@@ -15,7 +15,7 @@
 </div>
 
 ---
-<div align="center" , style = "display: flex;">
+<div align="center" >
 <h3>📝</h3>
 
 <h3>VSD</h3>
