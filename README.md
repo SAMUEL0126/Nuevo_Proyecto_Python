@@ -21,7 +21,7 @@
 </div>
 <h3 align="center">📝</h3>
 <hr>
-<div align="center" >
+<div align="rigth" >
 
 
 <h3>VSD</h3>
