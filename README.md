@@ -21,13 +21,13 @@
 </div>
 <h3 align="center">📝</h3>
 <hr>
-<div align="rigth" >
+
 
 
 <h3>VSD</h3>
 <img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
 <hr>
-</div>
+
 <h3>DB</h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
 
