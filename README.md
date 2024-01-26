@@ -12,10 +12,10 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-
+<h3>📝</h3>
 ---
 <div align="center" >
-<h3>📝</h3>
+
 
 <h3>VSD</h3>
 <img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
