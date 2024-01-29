@@ -15,7 +15,7 @@ def detener_cancion():
     pygame.mixer.music.stop()
 
 if __name__ == '__main__':
-    cancion = '/Reproductor de musica de bryant myers/Apaga_el_celular.mp3' # Ruta de la canción que quieres reproducir
+    cancion = '/Reproductor de musica mp3/Apaga_el_celular.mp3' # Ruta de la canción que quieres reproducir
     reproducir_cancion(cancion)
 
     while True:
