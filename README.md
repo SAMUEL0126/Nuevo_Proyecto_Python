@@ -25,13 +25,6 @@ Este es un diamante rojo creado utilizando caracteres en un archivo README.md.
       *
      ***
     *****
-   *******
-  *********
- ***********
-*************
- ***********
-  *********
-   *******
     *****
      ***
       *
