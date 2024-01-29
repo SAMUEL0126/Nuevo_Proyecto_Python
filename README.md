@@ -1,6 +1,4 @@
-
 <div align="center">
-
 
 </div>
 <br>
@@ -9,7 +7,6 @@
   <a href="" rel="noopener">
  <img width=400px height=80px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
 </p>
-
 
 <div align="center">
 
@@ -21,14 +18,11 @@
 </div>
 <hr>
 
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 <h3>:blue_heart: VS :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
 <hr>
 <h3>:blue_heart: DB :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
-
 
 </a>
 
