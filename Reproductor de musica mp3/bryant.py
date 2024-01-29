@@ -19,7 +19,7 @@ def say(text):
     while pygame.mixer.music.get_busy():
         pygame.time.Clock().tick(10)
 
-say("Como seria lo mas grosero del pedazo")
+say("Como seria lo mas grosero del pedazo cabroonnn")
 
 def reproducir_cancion(cancion):
     pygame.mixer.init()
