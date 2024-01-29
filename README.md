@@ -23,6 +23,6 @@
 <hr>
 <h3>:blue_heart: DB :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
-
+<p>Uno de nuestros valores corporativos es la honestidad, por eso si evidencias algún caso irregular, repórtalo a la Línea Ética: 01-8000-180 263 o al correo asisomos@crystal.com.co </p>
 </a>
 
