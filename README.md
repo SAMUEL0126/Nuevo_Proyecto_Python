@@ -23,10 +23,10 @@
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-<h3>:blue_heart:VSD</h3>
+<h3>:blue_heart: VSD</h3>
 <img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
 <hr>
-<h3>:blue_heart:DB</h3>
+<h3>:blue_heart: DB</h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
 
 
