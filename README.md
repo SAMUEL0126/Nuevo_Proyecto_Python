@@ -20,7 +20,7 @@
 <h3>:blue_heart: VS :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaVisual3.PNG" alt="Projectlogo">
 
-![SQL Icon](/images/descarga.png){: style="width: 10px; height: 10px; border-radius: 50%;"}
+<img src="/images/descarga.png" alt="SQL Icon" style="width: 50px; height: 50px; border-radius: 50%;">
 
 
 
