@@ -1,11 +1,9 @@
 <div align="center">
 
 </div>
-<br>
-<br>
 <p align="center">
   <a href="" rel="noopener">
- <h3 align="center">Agendas Para Exposicion</h3>
+ <h1 align="center">Agendas Para Exposicion</h1>
 </p>
 
 <hr>
