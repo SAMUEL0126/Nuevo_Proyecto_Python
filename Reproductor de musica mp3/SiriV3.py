@@ -6,7 +6,7 @@ from io import BytesIO
 
 pygame.init()
 
-#Funcion mandar mensaje de audio SiriV3
+# Funcion mandar mensaje de audio SiriV3
 
 def say(text):
     tts = gTTS(text=text, lang='en')
