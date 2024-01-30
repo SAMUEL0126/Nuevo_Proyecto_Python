@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=80px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
+ <h3 align="center">Agendas Para Exposicion</h3>
 </p>
 
 <hr>
