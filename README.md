@@ -18,6 +18,7 @@
 <h3>Uno de nuestros valores corporativos es la honestidad, por eso si evidencias algún caso irregular, repórtalo a la Línea Ética: 01-8000-180 263 o al correo</h3><h2 align="center">asisomos@crystal.com.co</h2>
 </a>
 <h3>:blue_heart: VS :blue_heart: </h3>
+![SQL Icon](https://example.com/sql_icon.png)
 <img width=400px height=200px src="/images/CapturaVisual3.PNG" alt="Projectlogo">
 
 
