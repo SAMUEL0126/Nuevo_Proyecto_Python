@@ -10,8 +10,8 @@
 
 <hr>
 
-<h3>:blue_heart: VSDB :blue_heart: </h3>
-<img width=400px height=200px src="/images/CapturaVisual.PNG" alt="Projectlogo">
+<h3>:blue_heart: VSA :blue_heart: </h3>
+<img width=400px height=200px src="/images/CapturaAgenda.PNG" alt="Projectlogo">
 <hr>
 <h3>:blue_heart: DB :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
@@ -20,7 +20,7 @@
 <h3>:blue_heart: VS :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaVisual3.PNG" alt="Projectlogo">
 
-<img src="/images/descarga.png" alt="SQL Icon" style="width: 50px; height: 50px; border-radius: 50%;">
+
 
 
 
