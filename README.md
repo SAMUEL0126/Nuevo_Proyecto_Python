@@ -1,6 +1,3 @@
-<div align="center">
-
-</div>
 <p align="center">
   <a href="" rel="noopener">
  <h1 align="center">Agendas Para Exposicion</h1>
@@ -13,6 +10,7 @@
 <hr>
 <h3>:blue_heart: DB :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaBasedeDatos.PNG" alt="Projectlogo">
+<hr>
 <h3>:blue_heart: VS :blue_heart: </h3>
 <img width=400px height=200px src="/images/CapturaVisual3.PNG" alt="Projectlogo">
 <br>
