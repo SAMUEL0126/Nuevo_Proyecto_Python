@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <h1 align="center">:blue_heart: Agendas Para Exposicion :blue_heart:</h1>
+ <h1 width="10px" align="center">:blue_heart: Agendas Para Exposicion :blue_heart:</h1>
 </p>
 
 <hr>
