@@ -55,9 +55,9 @@ class AgendaWindow(QMainWindow):
         if len(self.agenda) < 5:
             self.agenda.append(contact)
             QMessageBox.information(self, "Éxito", "Contacto agregado exitosamente.")
-            self.name_input.text()
-            self.phone_input.text()
-            self.email_input.text()
+            self.name_input.clear()
+            self.phone_input.clear()
+            self.email_input.clear()
         else:
             QMessageBox.warning(self, "Error", "La agenda está llena. No se puede agregar más contactos.")
 
@@ -94,5 +94,11 @@ class AgendaWindow(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = AgendaWindow()
+    window.setStyleSheet("QMainWindow { background-color: #F5F5F5; }"
+                         "QLabel { font-size: 18px; margin-bottom: 10px; }"
+                         "QLineEdit { font-size: 16px; padding: 5px; margin-bottom: 10px; }"
+                         "QPushButton { font-size: 16px; padding: 10px; background-color: #4CAF50; color: white; border: none; }"
+                         "QPushButton:hover { background-color: #45a049; }"
+                         "QPushButton:pressed { background-color: #367c39; }")
     window.show()
     sys.exit(app.exec_())
